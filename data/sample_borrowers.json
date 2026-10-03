@@ -1,0 +1,146 @@
+[
+  {
+    "id": "borrower-001",
+    "exposure": 17980,
+    "signal": 0.38,
+    "urgency": 3
+  },
+  {
+    "id": "borrower-002",
+    "exposure": 81124,
+    "signal": 0.901,
+    "urgency": 9
+  },
+  {
+    "id": "borrower-003",
+    "exposure": 6162,
+    "signal": 0.138,
+    "urgency": 8
+  },
+  {
+    "id": "borrower-004",
+    "exposure": 48133,
+    "signal": 0.839,
+    "urgency": 8
+  },
+  {
+    "id": "borrower-005",
+    "exposure": 79062,
+    "signal": 0.284,
+    "urgency": 1
+  },
+  {
+    "id": "borrower-006",
+    "exposure": 80475,
+    "signal": 0.727,
+    "urgency": 6
+  },
+  {
+    "id": "borrower-007",
+    "exposure": 11427,
+    "signal": 0.882,
+    "urgency": 4
+  },
+  {
+    "id": "borrower-008",
+    "exposure": 34919,
+    "signal": 0.533,
+    "urgency": 4
+  },
+  {
+    "id": "borrower-009",
+    "exposure": 24804,
+    "signal": 0.254,
+    "urgency": 9
+  },
+  {
+    "id": "borrower-010",
+    "exposure": 21866,
+    "signal": 0.589,
+    "urgency": 3
+  },
+  {
+    "id": "borrower-011",
+    "exposure": 85018,
+    "signal": 0.696,
+    "urgency": 3
+  },
+  {
+    "id": "borrower-012",
+    "exposure": 29037,
+    "signal": 0.228,
+    "urgency": 5
+  },
+  {
+    "id": "borrower-013",
+    "exposure": 46413,
+    "signal": 0.377,
+    "urgency": 8
+  },
+  {
+    "id": "borrower-014",
+    "exposure": 3041,
+    "signal": 0.611,
+    "urgency": 5
+  },
+  {
+    "id": "borrower-015",
+    "exposure": 42315,
+    "signal": 0.711,
+    "urgency": 9
+  },
+  {
+    "id": "borrower-016",
+    "exposure": 34133,
+    "signal": 0.818,
+    "urgency": 6
+  },
+  {
+    "id": "borrower-017",
+    "exposure": 23057,
+    "signal": 0.496,
+    "urgency": 5
+  },
+  {
+    "id": "borrower-018",
+    "exposure": 52687,
+    "signal": 0.132,
+    "urgency": 8
+  },
+  {
+    "id": "borrower-019",
+    "exposure": 9882,
+    "signal": 0.391,
+    "urgency": 6
+  },
+  {
+    "id": "borrower-020",
+    "exposure": 48467,
+    "signal": 0.669,
+    "urgency": 6
+  },
+  {
+    "id": "borrower-021",
+    "exposure": 35492,
+    "signal": 0.722,
+    "urgency": 6
+  },
+  {
+    "id": "borrower-022",
+    "exposure": 11694,
+    "signal": 0.173,
+    "urgency": 7
+  },
+  {
+    "id": "borrower-023",
+    "exposure": 9361,
+    "signal": 0.115,
+    "urgency": 2
+  },
+  {
+    "id": "borrower-024",
+    "exposure": 67783,
+    "signal": 0.883,
+    "urgency": 8
+  }
+]
